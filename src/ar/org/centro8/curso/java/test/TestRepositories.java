@@ -13,6 +13,9 @@ public class TestRepositories {
         ar.save(alumno); // El alumno creado se fue pa la base de datos
         System.out.println(alumno);
         
+        // Probamos un cambio
+        System.out.println("----- A verrrr -----");
+        
     }
     
 }
